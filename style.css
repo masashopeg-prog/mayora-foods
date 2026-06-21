@@ -1,0 +1,7 @@
+body { font-family: Tahoma; background: #fff; margin: 0; }
+header { background: #d4af37; padding: 10px; display: flex; align-items: center; }
+.logo { height: 50px; margin-right: 20px; }
+nav a { margin: 0 10px; color: #fff; text-decoration: none; font-weight: bold; }
+.product { border: 1px solid #ccc; padding: 15px; margin: 10px; }
+.product h2 { color: #d4af37; }
+.btn { background: #d4af37; color: #fff; padding: 5px 10px; border: none; cursor: pointer; }

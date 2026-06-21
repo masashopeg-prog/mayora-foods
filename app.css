@@ -1,0 +1,4 @@
+body { font-family: Arial; background: #fff; margin: 0; }
+header { background: #d4af37; color: #fff; padding: 10px; text-align: center; }
+.product { border-bottom: 1px solid #ccc; padding: 10px; }
+.product h2 { color: #d4af37; }
